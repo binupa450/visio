@@ -1,0 +1,6 @@
+{
+  "name": "VISIO - Smart Crowd Safety Intelligence",
+  "description": "VISIO is a smart crowd monitoring and early-warning platform helping event safety managers and security teams monitor crowd density and prevent overcrowding risks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
